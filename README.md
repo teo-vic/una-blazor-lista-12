@@ -2,8 +2,8 @@
 
 ## 👤 Identificação
 
-* **Nome:** Seu Nome Completo
-* **Curso:** Seu Curso (ex: Sistemas de Informação)
+* **Nome:** Victor Teodoro Santos
+* **Curso:** Ciência da computação
 
 ---
 
